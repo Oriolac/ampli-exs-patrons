@@ -1,3 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
 
 # Created by https://www.gitignore.io/api/intellij,java
 # Edit at https://www.gitignore.io/?templates=intellij,java
@@ -28,7 +36,6 @@
 # Gradle
 .idea/**/gradle.xml
 .idea/**/libraries
-
 
 # Gradle and Maven with auto-import
 # When using Gradle or Maven with auto-import, you should exclude module files,
