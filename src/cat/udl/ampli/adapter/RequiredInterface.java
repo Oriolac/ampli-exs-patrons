@@ -1,4 +1,4 @@
-package cat.udl.ampli.adaptador;
+package cat.udl.ampli.adapter;
 
 public interface RequiredInterface {
 

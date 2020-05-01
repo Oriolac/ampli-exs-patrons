@@ -1,6 +1,4 @@
-package cat.udl.ampli.adaptador;
-
-import java.security.InvalidParameterException;
+package cat.udl.ampli.adapter;
 
 public class AdapterHClass extends ExistingClass implements RequiredInterface{
 

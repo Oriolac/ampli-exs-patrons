@@ -1,4 +1,4 @@
-package cat.udl.ampli.compost;
+package cat.udl.ampli.composite;
 
 import java.util.Set;
 
