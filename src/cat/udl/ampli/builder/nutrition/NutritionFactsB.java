@@ -1,4 +1,4 @@
-package cat.udl.ampli.exs.nutritionbuilder;
+package cat.udl.ampli.builder.nutrition;
 
 public class NutritionFactsB {
 

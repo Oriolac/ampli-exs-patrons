@@ -1,4 +1,4 @@
-package cat.udl.ampli.exs.ex5;
+package cat.udl.ampli.composite.figure;
 
 import java.util.ArrayList;
 import java.util.List;

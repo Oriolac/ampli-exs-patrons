@@ -1,4 +1,4 @@
-package cat.udl.ampli.exs.task.composite;
+package cat.udl.ampli.composite.task;
 
 public class SimpleTask implements Task {
 

@@ -1,4 +1,4 @@
-package cat.udl.ampli.exs.saleobserver;
+package cat.udl.ampli.observer.saleobserver;
 
 public class ProductDescription {
     private String description;

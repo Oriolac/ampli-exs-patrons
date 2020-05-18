@@ -1,4 +1,4 @@
-package cat.udl.ampli.exs.doubledispatch;
+package cat.udl.ampli.doubledispatch;
 /*
 Common ob1 = new A();
 Common obj2 = new B();

@@ -1,4 +1,4 @@
-package cat.udl.ampli.machinecomposite;
+package cat.udl.ampli.composite.machine;
 
 import java.util.Set;
 

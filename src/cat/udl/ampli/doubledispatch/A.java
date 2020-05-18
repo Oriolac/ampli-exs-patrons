@@ -1,4 +1,4 @@
-package cat.udl.ampli.exs.doubledispatch;
+package cat.udl.ampli.doubledispatch;
 
 public class A implements Common {
     @Override

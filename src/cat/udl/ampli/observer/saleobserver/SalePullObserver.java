@@ -1,4 +1,4 @@
-package cat.udl.ampli.exs.saleobserver;
+package cat.udl.ampli.observer.saleobserver;
 
 import java.util.Observable;
 import java.util.Observer;

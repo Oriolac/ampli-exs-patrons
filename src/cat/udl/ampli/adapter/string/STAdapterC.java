@@ -1,4 +1,4 @@
-package cat.udl.ampli.exs.stringadapter;
+package cat.udl.ampli.adapter.string;
 
 import java.util.Iterator;
 import java.util.StringTokenizer;

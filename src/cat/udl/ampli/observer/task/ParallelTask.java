@@ -1,4 +1,4 @@
-package cat.udl.ampli.exs.task.observable;
+package cat.udl.ampli.observer.task;
 
 import java.util.List;
 
