@@ -1,7 +1,5 @@
-package cat.udl.ampli.iterator;
+package cat.udl.ampli.iterator.composite;
 
-import java.util.Iterator;
-import java.util.List;
 import java.util.Set;
 
 public interface AcycliclyIterable<E> extends Iterable<E> {

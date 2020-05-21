@@ -1,4 +1,4 @@
-package cat.udl.ampli.iterator;
+package cat.udl.ampli.iterator.composite;
 
 import java.util.HashSet;
 import java.util.Iterator;
