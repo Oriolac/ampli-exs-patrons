@@ -9,7 +9,7 @@ public class STAdapterH extends StringTokenizer implements Iterator<Object> {
         super(str, delim, returnDelim);
     }
 
-    public STAdapterH(String str, String delim ){
+    public STAdapterH(String str, String delim) {
         super(str, delim);
     }
 

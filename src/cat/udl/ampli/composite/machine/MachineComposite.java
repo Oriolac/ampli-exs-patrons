@@ -10,7 +10,7 @@ public class MachineComposite extends MachineComponent {
 
     public int getMachineCount() {
         int sum = 0;
-        for(MachineComponent c : components) {
+        for (MachineComponent c : components) {
             /* S'ha de vigilar si és cicle!!!!
              Arreglar-ho amb un if, semblant al de isTree */
             sum += c.getMachineCount();
@@ -21,7 +21,7 @@ public class MachineComposite extends MachineComponent {
     @Override
     protected boolean isTree(Set<MachineComponent> set) {
         set.add(this);
-        for (MachineComponent c: components) {
+        for (MachineComponent c : components) {
             if (set.contains(c) || !c.isTree(set))
                 return false;
         }

@@ -1,6 +1,6 @@
 package cat.udl.ampli.adapter.plus;
 
-public class AdapterHClass extends ExistingClass implements RequiredInterface{
+public class AdapterHClass extends ExistingClass implements RequiredInterface {
 
     private final int a;
 

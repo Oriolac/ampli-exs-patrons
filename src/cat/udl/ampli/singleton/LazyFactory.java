@@ -7,7 +7,8 @@ public class LazyFactory {
 
     private static LazyFactory factory;
 
-    private LazyFactory() { }
+    private LazyFactory() {
+    }
 
     public static LazyFactory getInstance() {
         if (factory == null)

@@ -1,4 +1,4 @@
 package cat.udl.ampli.strategy_abstract_factory.weather;
 
-public class Rain implements Weather{
+public class Rain implements Weather {
 }

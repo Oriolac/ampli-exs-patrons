@@ -17,7 +17,7 @@ public class Brawler {
         HP -= dm;
     }
 
-    public Attack physicalAttack(){
+    public Attack physicalAttack() {
         return atFact.getPhysicalAttack();
     }
 

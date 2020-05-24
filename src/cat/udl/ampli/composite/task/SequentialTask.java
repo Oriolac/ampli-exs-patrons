@@ -2,7 +2,7 @@ package cat.udl.ampli.composite.task;
 
 import java.util.List;
 
-public class SequentialTask extends ComplexTask{
+public class SequentialTask extends ComplexTask {
 
 
     public SequentialTask(Money cost, List<Task> tasks) {

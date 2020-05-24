@@ -8,12 +8,12 @@ public class Drawing extends Figure {
     final private List<Figure> figures;
 
     public Drawing(int x, int y) {
-        super(x,y);
+        super(x, y);
         this.figures = new ArrayList<>();
     }
 
     public Drawing(Drawing drawing) {
-        super(drawing.getX(),drawing.getY());
+        super(drawing.getX(), drawing.getY());
         this.figures = new ArrayList<>();
         for (Figure figure : drawing.figures) {
             figures.add(figure.copy());

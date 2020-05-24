@@ -3,8 +3,8 @@ package cat.udl.ampli.strategy_abstract_factory;
 import cat.udl.ampli.strategy_abstract_factory.weather.Weather;
 
 public class BattleContext {
-    private Brawler brawlerA;
-    private Brawler brawlerB;
+    private final Brawler brawlerA;
+    private final Brawler brawlerB;
     private Turn turn;
     private Weather weather;
     Brawler target;

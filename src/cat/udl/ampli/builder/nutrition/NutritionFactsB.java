@@ -18,11 +18,11 @@ public class NutritionFactsB {
     }
 
     private NutritionFactsB(int servingSize, int servings, int calories, int fat) {
-        this(servingSize, servings, calories, fat,0);
+        this(servingSize, servings, calories, fat, 0);
     }
 
     private NutritionFactsB(int servingSize, int servings, int calories, int fat, int sodium) {
-        this(servingSize, servings, calories, fat,sodium,0);
+        this(servingSize, servings, calories, fat, sodium, 0);
     }
 
     private NutritionFactsB(int servingSize, int servings, int calories, int fat, int sodium, int carbohydrate) {

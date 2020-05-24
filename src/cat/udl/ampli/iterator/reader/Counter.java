@@ -1,6 +1,6 @@
 package cat.udl.ampli.iterator.reader;
 
-public class Counter extends SequenceProcessor<String>{
+public class Counter extends SequenceProcessor<String> {
     private int count;
 
     public Counter() {

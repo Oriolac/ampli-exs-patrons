@@ -6,7 +6,7 @@ import java.util.Observable;
 
 public class Sale extends Observable {
 
-    private List<SaleLineItem> lines = new ArrayList<>();
+    private final List<SaleLineItem> lines = new ArrayList<>();
 
     public void createSalesLineItem(ProductDescription desc, int quantity) {
         SaleLineItem saleLineItem = new SaleLineItem(desc, quantity);

@@ -5,7 +5,7 @@ import cat.udl.ampli.strategy_abstract_factory.attack.PhysicalAttack;
 import cat.udl.ampli.strategy_abstract_factory.attack.SpecialAttack;
 import cat.udl.ampli.strategy_abstract_factory.attack.WeatherAttack;
 
-public class NoneWeatherMovesAF implements AttackAbstractFactory{
+public class NoneWeatherMovesAF implements AttackAbstractFactory {
     @Override
     public Attack getPhysicalAttack() {
         return new PhysicalAttack();

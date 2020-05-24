@@ -44,6 +44,7 @@ public class CompositeIterator<E extends AcycliclyIterable<E>> extends Component
 
     /**
      * Needs to call 'recursively'
+     *
      * @return the next head of next node
      */
     private E nextDescendant() {
