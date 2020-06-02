@@ -5,7 +5,7 @@ import java.util.List;
 public class SequentialTask extends ComplexTask {
 
 
-    public SequentialTask(Money cost, List<Task> tasks) {
+    public SequentialTask(Money cost, List<ObservableTask> tasks) {
         super(cost, tasks);
     }
 

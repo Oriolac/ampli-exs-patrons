@@ -6,7 +6,13 @@ import java.util.Observer;
 
 public abstract class ComplexTask extends ObservableTask implements Observer {
 
+    protected final Money cost;
     protected List<ObservableTask> tasks;
+
+    public ComplexTask(Money cost, List<ObservableTask> tasks) {
+        this.tasks = tasks;
+        this.cost = cost;
+    }
 
     public void addSubTask(ObservableTask subTask) {
         tasks.add(subTask);

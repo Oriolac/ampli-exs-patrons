@@ -3,7 +3,7 @@ package cat.udl.ampli.observer.task;
 import java.util.List;
 
 public class ParallelTask extends ComplexTask {
-    public ParallelTask(Money cost, List<Task> tasks) {
+    public ParallelTask(Money cost, List<ObservableTask> tasks) {
         super(cost, tasks);
     }
 

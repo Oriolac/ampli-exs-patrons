@@ -10,7 +10,8 @@
 ### Composite
 * [Figure's Composite](https://github.com/Oriolac/java-design-patterns/tree/master/src/cat/udl/ampli/composite/figure)
 * [Machine's Composite](https://github.com/Oriolac/java-design-patterns/tree/master/src/cat/udl/ampli/composite/machine)
-* [Task's Composite](https://github.com/Oriolac/java-design-patterns/tree/master/src/cat/udl/ampli/composite/task)
+* [Task's Composite with Observable](https://github.com/Oriolac/java-design-patterns/tree/master/src/cat/udl/ampli/composite/task)
+* [Machine's Composite with Observable](https://github.com/Oriolac/java-design-patterns/tree/master/src/cat/udl/ampli/composite/observer)
 * [Composite with Visitor](https://github.com/Oriolac/java-design-patterns/tree/master/src/cat/udl/ampli/composite/visitor)
 * [Iterating a composite pattern](https://github.com/Oriolac/java-design-patterns/tree/master/src/cat/udl/ampli/iterator/composite)
 * [Iterator's Composite](https://github.com/Oriolac/java-design-patterns/tree/master/src/cat/udl/ampli/iterator/reader)
@@ -21,6 +22,8 @@
 * [Iterating a composite pattern](https://github.com/Oriolac/java-design-patterns/tree/master/src/cat/udl/ampli/iterator/composite)
 * [Iterator's Composite](https://github.com/Oriolac/java-design-patterns/tree/master/src/cat/udl/ampli/iterator/reader)
 ### Observer
+* [Task's Composite with Observable](https://github.com/Oriolac/java-design-patterns/tree/master/src/cat/udl/ampli/composite/task)
+* [Machine's Composite with Observable](https://github.com/Oriolac/java-design-patterns/tree/master/src/cat/udl/ampli/composite/observer)
 ### Singleton
 * [Types of Singleton](https://github.com/Oriolac/java-design-patterns/tree/master/src/cat/udl/ampli/singleton)
 ### Strategy 
