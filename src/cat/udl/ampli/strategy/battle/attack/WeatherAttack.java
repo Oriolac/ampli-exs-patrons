@@ -1,7 +1,7 @@
-package cat.udl.ampli.strategy_abstract_factory.attack;
+package cat.udl.ampli.strategy.battle.attack;
 
-import cat.udl.ampli.strategy_abstract_factory.BattleContext;
-import cat.udl.ampli.strategy_abstract_factory.weather.Weather;
+import cat.udl.ampli.strategy.battle.BattleContext;
+import cat.udl.ampli.strategy.battle.weather.Weather;
 
 public class WeatherAttack extends Attack {
 

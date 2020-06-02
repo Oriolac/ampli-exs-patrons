@@ -1,9 +1,9 @@
-package cat.udl.ampli.strategy_abstract_factory.attack.factory;
+package cat.udl.ampli.strategy.battle.attack.factory;
 
-import cat.udl.ampli.strategy_abstract_factory.attack.Attack;
-import cat.udl.ampli.strategy_abstract_factory.attack.PhysicalAttack;
-import cat.udl.ampli.strategy_abstract_factory.attack.SpecialAttack;
-import cat.udl.ampli.strategy_abstract_factory.attack.WeatherAttack;
+import cat.udl.ampli.strategy.battle.attack.Attack;
+import cat.udl.ampli.strategy.battle.attack.PhysicalAttack;
+import cat.udl.ampli.strategy.battle.attack.SpecialAttack;
+import cat.udl.ampli.strategy.battle.attack.WeatherAttack;
 
 public class NoneWeatherMovesAF implements AttackAbstractFactory {
     @Override

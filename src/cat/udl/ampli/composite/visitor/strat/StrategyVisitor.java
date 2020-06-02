@@ -7,7 +7,7 @@ import cat.udl.ampli.composite.visitor.comp.Leaf;
 
 import java.util.Set;
 
-public abstract class StrategyVisitor implements ComponentVisitor {
+public class StrategyVisitor implements ComponentVisitor {
 
     private final LeafVisitor leafVisitor;
     private Set<Component> visited;

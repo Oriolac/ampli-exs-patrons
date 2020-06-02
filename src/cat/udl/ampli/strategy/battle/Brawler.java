@@ -1,7 +1,7 @@
-package cat.udl.ampli.strategy_abstract_factory;
+package cat.udl.ampli.strategy.battle;
 
-import cat.udl.ampli.strategy_abstract_factory.attack.Attack;
-import cat.udl.ampli.strategy_abstract_factory.attack.factory.AttackAbstractFactory;
+import cat.udl.ampli.strategy.battle.attack.Attack;
+import cat.udl.ampli.strategy.battle.attack.factory.AttackAbstractFactory;
 
 public class Brawler {
 

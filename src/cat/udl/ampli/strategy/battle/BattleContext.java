@@ -1,6 +1,6 @@
-package cat.udl.ampli.strategy_abstract_factory;
+package cat.udl.ampli.strategy.battle;
 
-import cat.udl.ampli.strategy_abstract_factory.weather.Weather;
+import cat.udl.ampli.strategy.battle.weather.Weather;
 
 public class BattleContext {
     private final Brawler brawlerA;

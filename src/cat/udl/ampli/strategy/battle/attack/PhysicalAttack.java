@@ -1,6 +1,6 @@
-package cat.udl.ampli.strategy_abstract_factory.attack;
+package cat.udl.ampli.strategy.battle.attack;
 
-import cat.udl.ampli.strategy_abstract_factory.BattleContext;
+import cat.udl.ampli.strategy.battle.BattleContext;
 
 public class PhysicalAttack extends Attack {
 

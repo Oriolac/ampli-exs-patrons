@@ -1,6 +1,6 @@
-package cat.udl.ampli.strategy_abstract_factory.attack.factory;
+package cat.udl.ampli.strategy.battle.attack.factory;
 
-import cat.udl.ampli.strategy_abstract_factory.attack.Attack;
+import cat.udl.ampli.strategy.battle.attack.Attack;
 
 public interface AttackAbstractFactory {
 

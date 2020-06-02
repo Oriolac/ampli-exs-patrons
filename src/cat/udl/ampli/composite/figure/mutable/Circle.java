@@ -1,4 +1,4 @@
-package cat.udl.ampli.composite.figure;
+package cat.udl.ampli.composite.figure.mutable;
 
 public class Circle extends Figure {
     private final int r;
