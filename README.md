@@ -16,6 +16,7 @@
 * [Iterating a composite pattern](https://github.com/Oriolac/java-design-patterns/tree/master/src/cat/udl/ampli/iterator/composite)
 * [Iterator's Composite](https://github.com/Oriolac/java-design-patterns/tree/master/src/cat/udl/ampli/iterator/reader)
 ### Factory
+* [ID Factory](https://github.com/Oriolac/java-design-patterns/tree/master/src/cat/udl/ampli/factory)
 ### Injector
 * [Inject](https://github.com/Oriolac/java-design-patterns/tree/master/src/cat/udl/ampli/inject)
 ### Iterator 
