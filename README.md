@@ -22,6 +22,8 @@
 ### Iterator 
 * [Iterating a composite pattern](https://github.com/Oriolac/java-design-patterns/tree/master/src/cat/udl/ampli/iterator/composite)
 * [Iterator's Composite](https://github.com/Oriolac/java-design-patterns/tree/master/src/cat/udl/ampli/iterator/reader)
+### Object Pool
+* [Workers need PC Pool](https://github.com/Oriolac/java-design-patterns/tree/master/src/cat/udl/ampli/objectpool)
 ### Observer
 * [Task's Composite with Observable](https://github.com/Oriolac/java-design-patterns/tree/master/src/cat/udl/ampli/composite/task)
 * [Machine's Composite with Observable](https://github.com/Oriolac/java-design-patterns/tree/master/src/cat/udl/ampli/composite/observer)
